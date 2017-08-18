@@ -1,0 +1,16 @@
+{
+  "name": "apirest",
+  "version": "0.0.1",
+  "main": "api.js",
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest",
+    "body-parser": "latest",
+    "node-schedule": "latest",
+    "cheerio": "latest",
+    "fs": "latest",
+    "mongodb": "latest",
+    "node-restful": "^0.2.6"
+    
+  }
+}
